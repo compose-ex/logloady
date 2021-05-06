@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "node-fetch": "^1.7.3",
     "yargs": "^10.0.3"
   }
